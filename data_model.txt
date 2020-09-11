@@ -1,0 +1,17 @@
+data model du user
+user_name : nom du user au format prenom.nom
+profile : #les données permanentes 
+  {alexa_id: id user chez Amazon
+  medias : ensemble des médias du user 
+    {"name":"number", "name":"number"}
+  }
+services : Etat des services du user
+  {redirect:indique si un renvoi est actif et si oui vers quel numéro 
+    {"status":actif ou inactif, "number": contient le numéro si le renvoi est actif sinon est à None}
+    }
+session: Etat du user et de ces infos en cours de session
+  {"dialog_status": contient le status du dialogue, 
+    "phonenumber": numero de téléphone indiqué par le user lors du dialogue,
+    "phonename": nom du téléphone indiqué par le user}
+  }
+  

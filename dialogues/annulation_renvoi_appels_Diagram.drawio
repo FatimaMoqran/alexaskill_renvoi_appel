@@ -1,0 +1,204 @@
+<mxfile host="draw.tech.orange" modified="2020-08-05T09:36:44.373Z" agent="5.0 (Windows)" etag="c5SXTnE2VvWp2JxHCz9y" version="13.2.3" type="gitlab">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
+    <mxGraphModel dx="1848" dy="404" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="XZ-j_g9YmjoOg_1Uvvr9-0" value="Alexa ouvre djingo pro" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCE5FF;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="240" y="70" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XZ-j_g9YmjoOg_1Uvvr9-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="XZ-j_g9YmjoOg_1Uvvr9-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="320" y="65" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="330" y="70" />
+              <mxPoint x="325" y="70" />
+              <mxPoint x="325" y="65" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XZ-j_g9YmjoOg_1Uvvr9-1" value="ouverture du skill" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#99CCFF;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="240" y="50" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="XZ-j_g9YmjoOg_1Uvvr9-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.43;entryY=0.1;entryDx=0;entryDy=0;entryPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="XZ-j_g9YmjoOg_1Uvvr9-6" target="XZ-j_g9YmjoOg_1Uvvr9-12" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XZ-j_g9YmjoOg_1Uvvr9-6" value="Bienvenue chez Djingo Pro, que puis-je faire pour vous?" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=#36393D;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="244" y="170" width="170" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="XZ-j_g9YmjoOg_1Uvvr9-10" value="Problème technique " style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFCC99;strokeColor=#36393d;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry y="640" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hB4YvQ_RPDfmU3g0wWyQ-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.694;entryY=-0.1;entryDx=0;entryDy=0;entryPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="XZ-j_g9YmjoOg_1Uvvr9-11" target="XZ-j_g9YmjoOg_1Uvvr9-21" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hB4YvQ_RPDfmU3g0wWyQ-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.644;entryY=-0.133;entryDx=0;entryDy=0;entryPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="XZ-j_g9YmjoOg_1Uvvr9-11" target="hB4YvQ_RPDfmU3g0wWyQ-14" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XZ-j_g9YmjoOg_1Uvvr9-11" value="Je veux annuler mon renvoi d&#39;appels" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="230" y="280" width="230" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="XZ-j_g9YmjoOg_1Uvvr9-12" value="intention &quot;annulation renvoi d&#39;appel&quot;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#7EA6E0;strokeColor=#36393d;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="230" y="260" width="230" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="hB4YvQ_RPDfmU3g0wWyQ-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="XZ-j_g9YmjoOg_1Uvvr9-15" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="70" y="510" as="targetPoint" />
+            <mxPoint x="330" y="480" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="175" y="480" />
+              <mxPoint x="70" y="480" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hB4YvQ_RPDfmU3g0wWyQ-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="XZ-j_g9YmjoOg_1Uvvr9-15" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="800" y="520" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="175" y="480" />
+              <mxPoint x="800" y="480" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XZ-j_g9YmjoOg_1Uvvr9-15" value="Confirmez vous l&#39;annulation du renvois de vos appels fixe vers le {numéro_de_tel}?" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=#36393D;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="90" y="400" width="170" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="XZ-j_g9YmjoOg_1Uvvr9-16" value="Bienvenue sur le Skill" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFCC99;strokeColor=#36393d;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="244" y="150" width="170" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="XZ-j_g9YmjoOg_1Uvvr9-18" value="Renvoi d&#39;appel actif" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="115" y="320" width="115" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="XZ-j_g9YmjoOg_1Uvvr9-20" value="vos appels ne sont pas renvoyés actuellement" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=#36393D;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="540" y="400" width="170" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="XZ-j_g9YmjoOg_1Uvvr9-21" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFCC99;strokeColor=#36393d;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="540" y="380" width="170" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="hB4YvQ_RPDfmU3g0wWyQ-1" value="Renvoi d&#39;appel non actif" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="530" y="280" width="220" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="hB4YvQ_RPDfmU3g0wWyQ-4" value="Oui" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#A9C4EB;strokeColor=#36393d;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="50" y="510" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="hB4YvQ_RPDfmU3g0wWyQ-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="hB4YvQ_RPDfmU3g0wWyQ-6" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="80" y="630" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hB4YvQ_RPDfmU3g0wWyQ-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="hB4YvQ_RPDfmU3g0wWyQ-6" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="680" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hB4YvQ_RPDfmU3g0wWyQ-6" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="50" y="530" width="60" height="20.5" as="geometry" />
+        </mxCell>
+        <mxCell id="hB4YvQ_RPDfmU3g0wWyQ-8" value="Problème technique " style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="-40" y="565" width="115" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="hB4YvQ_RPDfmU3g0wWyQ-13" value="Un problème est survenu. Vous pouvez annuler le renvoi d&#39;appels en composant le " style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=#36393D;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry y="670" width="250" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="hB4YvQ_RPDfmU3g0wWyQ-14" value="demande confirmation annulation" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFCC99;strokeColor=#36393d;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="90" y="370" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hB4YvQ_RPDfmU3g0wWyQ-18" value="Vos appels sont à nouveau redirigés vers votre ligne fixe" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=#36393D;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="372" y="710" width="158" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hB4YvQ_RPDfmU3g0wWyQ-19" value="Au revoir " style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFCC99;strokeColor=#36393d;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="730" y="620" width="158" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="hB4YvQ_RPDfmU3g0wWyQ-21" value="Non" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#A9C4EB;strokeColor=#36393d;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="767" y="520" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="hB4YvQ_RPDfmU3g0wWyQ-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.424;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="hB4YvQ_RPDfmU3g0wWyQ-23" target="hB4YvQ_RPDfmU3g0wWyQ-19" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hB4YvQ_RPDfmU3g0wWyQ-23" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="767" y="540" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="hB4YvQ_RPDfmU3g0wWyQ-29" value="annulation confirmée" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFCC99;strokeColor=#36393d;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="372" y="690" width="158" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="hB4YvQ_RPDfmU3g0wWyQ-30" value="Au revoir" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=#36393D;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="730" y="640" width="158" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hB4YvQ_RPDfmU3g0wWyQ-37" value="intention &quot;je suis de retour&quot;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#7EA6E0;strokeColor=#36393d;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="900" y="200" width="230" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="hB4YvQ_RPDfmU3g0wWyQ-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="hB4YvQ_RPDfmU3g0wWyQ-38" target="hB4YvQ_RPDfmU3g0wWyQ-42" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hB4YvQ_RPDfmU3g0wWyQ-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.547;entryY=0.05;entryDx=0;entryDy=0;entryPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="hB4YvQ_RPDfmU3g0wWyQ-38" target="hB4YvQ_RPDfmU3g0wWyQ-49" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hB4YvQ_RPDfmU3g0wWyQ-38" value="&lt;div&gt;Je suis de retour &lt;br&gt;&lt;/div&gt;&lt;div&gt;Je suis rentré&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="900" y="220" width="230" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hB4YvQ_RPDfmU3g0wWyQ-39" value="numero de téléphone spécial?" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="-100" y="415" width="190" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="hB4YvQ_RPDfmU3g0wWyQ-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="hB4YvQ_RPDfmU3g0wWyQ-41" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="800" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hB4YvQ_RPDfmU3g0wWyQ-41" value="Vous avez un renvoi actif.Voulez vous&amp;nbsp; annuler le renvoi de vos appels vers le {numero_de_tel}?" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=#36393D;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="827" y="370" width="173" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="hB4YvQ_RPDfmU3g0wWyQ-42" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFCC99;strokeColor=#36393d;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="827" y="340" width="173" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hB4YvQ_RPDfmU3g0wWyQ-47" value="Renvoi d&#39;appel actif" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="800" y="280" width="115" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="hB4YvQ_RPDfmU3g0wWyQ-48" value="Bienvenue! " style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=#36393D;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="1120" y="390" width="170" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="hB4YvQ_RPDfmU3g0wWyQ-49" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFCC99;strokeColor=#36393d;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="1120" y="370" width="170" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="hB4YvQ_RPDfmU3g0wWyQ-51" value="Renvoi d&#39;appel non actif" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="1110" y="290" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="p6DHePDtYiPiQfnbkq3v-0" value="demande confirmation annulation" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFCC99;strokeColor=#36393d;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="89" y="370" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="p6DHePDtYiPiQfnbkq3v-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFCC99;strokeColor=#36393d;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="540" y="380" width="170" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="p6DHePDtYiPiQfnbkq3v-2" value="Annulation_renvoi_d&#39;appels-Demande_Confirmation" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCFF99;strokeColor=#36393D;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="-160" y="310" width="240" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="p6DHePDtYiPiQfnbkq3v-3" value="Annulation_renvoi_d&#39;appels-Renvoi_non_actif" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCFF99;strokeColor=#36393D;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="527" y="230" width="240" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="p6DHePDtYiPiQfnbkq3v-5" value="Annulation_renvoi_d&#39;appels-Demande_Confirmation" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCFF99;strokeColor=#36393D;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="-160" y="310" width="240" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="p6DHePDtYiPiQfnbkq3v-7" value="Annulation_renvoi_d_appels-Annulation_Confirmée" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCFF99;strokeColor=#36393D;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="414" y="525" width="240" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="vdd9AXscEuMEU5fdBFJN-0" value="Annulation_renvoi_d&#39;appels-Renvoi_non_actif" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCFF99;strokeColor=#36393D;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="527" y="230" width="240" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="vdd9AXscEuMEU5fdBFJN-1" value="Annulation_renvoi_d_appels-Annulation_KO" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCFF99;strokeColor=#36393D;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-270" y="680" width="240" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="vdd9AXscEuMEU5fdBFJN-2" value="Annulation_renvoi_d_appels-Annulation_Confirmée" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCFF99;strokeColor=#36393D;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="414" y="525" width="240" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="vdd9AXscEuMEU5fdBFJN-3" value="Annulation_renvoi_d_appels-Annulation_Confirmée" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCFF99;strokeColor=#36393D;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="414" y="525" width="240" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="vdd9AXscEuMEU5fdBFJN-4" value="Retour_bureau-Renvoi_actif" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCFF99;strokeColor=#36393D;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="910" y="475" width="240" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="vdd9AXscEuMEU5fdBFJN-5" value="Retour_bureau-Renvoi_non_actif" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCFF99;strokeColor=#36393D;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1360" y="380" width="240" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
